@@ -1,0 +1,36 @@
+.frame-2 .rectangle-1 {
+  box-shadow: -30px 30px 100px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 25px;
+  background: url('../assets/images/rectangle_2.png');
+  transform: rotate(15deg);
+  position: relative;
+  width: 736.8px;
+  height: 1295.3px;
+}
+.frame-2 .rectangle-2 {
+  box-shadow: -30px 30px 100px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 25px;
+  background: url('../assets/images/rectangle_2.png');
+  transform: rotate(15deg);
+  position: absolute;
+  top: -254.1px;
+  right: 423.3px;
+  width: 736.8px;
+  height: 1296.3px;
+}
+.frame-2 .rectangle-3 {
+  box-shadow: -30px 30px 100px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 25px;
+  background: url('../assets/images/rectangle_3.png');
+  transform: rotate(15deg);
+  position: absolute;
+  right: -260px;
+  bottom: -313.5px;
+  width: 736.8px;
+  height: 1296.3px;
+}
+.frame-2 {
+  background: #E0F0FF;
+  width: 1920px;
+  box-sizing: border-box;
+}

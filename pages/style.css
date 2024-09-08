@@ -1,0 +1,522 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1, h2 {
+    color: #002b5e;
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  section {
+    padding: 60px 20px;
+  }
+  
+  button {
+    background-color: #002b5e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #ff6f61;
+  }
+  
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header .logo img {
+    height: 60px;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar ul li {
+    display: inline;
+  }
+  
+  .navbar ul li a {
+    text-decoration: none;
+    color: #002b5e;
+    font-weight: bold;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background-image: url('../assets/images/all_21.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 150px 20px;
+  }
+  
+  .enquiry-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+    gap: 15px;
+  }
+  .campus-life {
+    background-image: url('../assets/vectors/backgroundforsports.svg');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    color: white; /* Adjust text color if needed for contrast */
+  }
+  
+  .campus-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .campus-item {
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white for better readability */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .campus-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .campus-item p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #002b5e;
+  }
+  
+  .enquiry-form input, .enquiry-form select {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .academic-programs {
+    background-color: #f8f9fa;
+    padding: 70px 20px;
+    text-align: center;
+  }
+  
+  .academic-programs h2 {
+    font-size: 2.8rem;
+    color: #002b5e;
+    font-weight: bold;
+    margin-bottom: 50px;
+    position: relative;
+  }
+  
+  .academic-programs h2::after {
+    content: '';
+    width: 80px;
+    height: 5px;
+    background-color: #002b5e;
+    display: block;
+    margin: 20px auto 0;
+    border-radius: 5px;
+  }
+  
+  .programs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+    justify-content: center;
+    padding: 0 20px;
+  }
+  
+  .program-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-size: 1.2rem;
+    color: #333;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+  }
+  
+  .program-card::before {
+    content: '🎓';
+    font-size: 2.5rem;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #0056a6;
+  }
+  
+  .program-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .program-card:hover::before {
+    transform: translateX(-50%) translateY(-5px);
+  }
+  
+  .program-card:hover {
+    background: #0056a6;
+    color: white;
+  }
+  
+  .program-card:hover::before {
+    color: #fff;
+  }
+  
+  /* Responsive design */
+  @media (min-width: 768px) {
+    .academic-programs {
+      padding: 80px 40px;
+    }
+  
+    .program-card {
+      font-size: 1.4rem;
+    padding: 40px;
+  }
+}
+/* General Styling */
+.academic-excellence {
+  
+  background-image: url('../assets/vectors/acadamicexcellence.svg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 50px 20px;
+  background-color: #ffffff; /* Cleaner white background */
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  margin-bottom: 30px;
+  overflow: hidden; /* Ensures no overflow of elements */
+}
+
+.excellence-content {
+  flex: 1;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
+
+.excellence-content h2 {
+  font-size: 2.4rem;
+  color: #002b5e;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+}
+
+.excellence-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+/* Highlighting Rankings */
+.ranking-info {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.rankings {
+  padding: 15px;
+  background-color: #f0faff; /* Soft blue background for ranking box */
+  border-left: 5px solid #007bff; /* Highlighting border color */
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.rankings p {
+  margin: 0;
+}
+
+.rankings p strong {
+  color: #003d6b; /* Slightly darker color for emphasis */
+}
+
+/* Styling for Stats */
+.stats {
+  padding: 15px;
+  background-color: #f9f9f9; /* Light gray background for stats box */
+  border-left: 5px solid #28a745; /* Highlighting border color */
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.stats p {
+  margin: 0;
+}
+
+.stats p strong {
+  color: #004d40; /* Darker color for emphasis */
+}
+
+/* Button Styling */
+.read-more-btn {
+  background-color: #ff6f61; /* Softer orange shade */
+  color: white;
+  padding: 10px 25px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 4px 10px rgba(255, 107, 97, 0.4);
+}
+
+.read-more-btn:hover {
+  background-color: #e54e4a; /* Slightly darker orange on hover */
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+/* Image Styling */
+.excellence-images {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.excellence-images img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.excellence-images img:hover {
+  transform: scale(1.05); /* Subtle zoom effect */
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .academic-excellence {
+    flex-direction: column;
+    padding: 30px 15px;
+  }
+
+  .excellence-images {
+    gap: 10px;
+  }
+
+  .excellence-images img {
+    width: 150px;
+    height: 100px;
+  }
+
+  .excellence-content h2 {
+    font-size: 1.8rem;
+  }
+}
+
+  /* Admission Process */
+  .admission-process {
+    background-color: #f0f8ff; /* Light blue background */
+    padding: 60px 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Light shadow for elevation */
+    max-width: 1200px;
+    margin: 40px auto;
+    text-align: center;
+  }
+  
+  .admission-process h2 {
+    font-size: 2.5rem;
+    color: #002b5e;
+    font-weight: 700;
+    margin-bottom: 30px;
+    position: relative;
+  }
+  
+  .admission-process h2::after {
+    content: '';
+    width: 60px;
+    height: 4px;
+    background-color: #002b5e;
+    display: block;
+    margin: 12px auto 0;
+    border-radius: 4px;
+  }
+  
+  .admission-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .admission-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Image shadow */
+  }
+  
+  .admission-text {
+    text-align: left;
+    max-width: 650px;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .admission-text p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 15px;
+    line-height: 1.8;
+  }
+  
+  .admission-text ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .admission-text ul li {
+    font-size: 1.1rem;
+    margin: 10px 0;
+    color: #333;
+    padding-left: 20px;
+    position: relative;
+  }
+  
+  .admission-text ul li::before {
+    content: '✔';
+    position: absolute;
+    left: 0;
+    color: #002b5e;
+    font-size: 1.2rem;
+    line-height: 1.1;
+  }
+  
+  .admission-text button {
+    background-color: #002b5e;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .admission-text button:hover {
+    background-color: #0056a6;
+    transform: translateY(-2px); /* Slight lift on hover */
+  }
+  
+  /* For larger screens */
+  @media (min-width: 768px) {
+    .admission-content {
+      flex-direction: row;
+      gap: 40px;
+      align-items: flex-start;
+    }
+  
+    .admission-text {
+      max-width: 500px;
+    }
+  }
+  
+  
+  /* Placements Section */
+  .placements {
+    background-color: #e0e0e0;
+    text-align: center;
+  }
+  
+  .placement-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .placement-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 200px;
+  }
+  
+  /* Campus Life Section */
+  .campus-life {
+    background-color: #f5f5f5;
+  }
+  
+  .campus-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .campus-item {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #002b5e;
+    color: white;
+    padding: 40px 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .footer-section h3 {
+    margin-bottom: 15px;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 10px;
+  }
+  

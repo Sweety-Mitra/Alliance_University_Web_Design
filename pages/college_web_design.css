@@ -1,0 +1,1422 @@
+.college-web-design .logo-2-removebg-preview-1 {
+  background: url('../assets/images/logo_2_removebg_preview_1.png');
+  background-size: 100px,00px;
+  background-repeat: no-repeat;
+  width: 66vw;
+  height: 30vw;
+  position: relative;
+  bottom:10vw;
+  background-size: cover;
+}
+.college-web-design .home {
+  margin-right: 27.6px;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.college-web-design .about {
+  margin-right: 27px;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.college-web-design .contact-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.college-web-design .container-15 {
+  margin: 20px 0  0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  position: relative;
+  right:10vw
+}
+.college-web-design .container-16 {
+  margin-bottom: 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1372.2px;
+  box-sizing: border-box;
+}
+.college-web-design .gyanashya-shaktihi-buddhaiya-prakasham {
+  margin-bottom: 146.5px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 105px;
+  line-height: 1.084;
+  color: #FFFFFF;
+}
+.college-web-design .script-your-success-story-learn-experience-and-thrive {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.college-web-design .hero {
+  margin: 39.7px 168.9px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.college-web-design .label {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .value {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .input {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .label-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .value-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .input-1 {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .label-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value-2 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .value-2 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .input-2 {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .button-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #F5F5F5;
+}
+.college-web-design .button-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #F5F5F5;
+}
+.college-web-design .button {
+  border-radius: 8px;
+  border: 1px solid #2C2C2C;
+  background: #2C2C2C;
+  position: absolute;
+  left: 50%;
+  bottom: 36px;
+  translate: -50% 0;
+  display: flex;
+  padding: 11px 0px 11px 0;
+  width: 272px;
+  box-sizing: border-box;
+}
+.college-web-design .label {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .input {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .input-field {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .label-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .input-1 {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .input-field-1 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .label-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value-2 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.college-web-design .input-2 {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .input-field-2 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.college-web-design .button-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #F5F5F5;
+}
+.college-web-design .button {
+  border-radius: 8px;
+  border: 1px solid #2C2C2C;
+  background: #2C2C2C;
+  position: absolute;
+  left: 50%;
+  bottom: 36px;
+  translate: -50% 0;
+  display: flex;
+  padding: 11px 0px 11px 0;
+  width: 272px;
+  box-sizing: border-box;
+}
+.college-web-design .form-contact {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 23px 23px 0 23px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.college-web-design .label-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value-3 {
+  margin-right: 8px;
+  width: 220px;
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #1E1E1E;
+}
+.college-web-design .icon-1 {
+  width: 8px;
+  height: 4px;
+}
+.college-web-design .chevron-down {
+  margin: 6px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.college-web-design .select {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11.5px 15.5px;
+  box-sizing: border-box;
+}
+.college-web-design .select-field {
+  position: relative;
+  margin-bottom: 34.8px;
+  padding-bottom: 48px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .label-4 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.college-web-design .value-4 {
+  margin-right: 8px;
+  width: 220px;
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #1E1E1E;
+}
+.college-web-design .icon-2 {
+  width: 8px;
+  height: 4px;
+}
+.college-web-design .chevron-down-1 {
+  margin: 6px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.college-web-design .select-1 {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11.5px 15.5px;
+  width: 272px;
+  box-sizing: border-box;
+}
+.college-web-design .select-field-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .group-5 {
+  position: relative;
+  margin-bottom: 18.2px;
+  display: flex;
+  flex-direction: column;
+  padding: 305.5px 24px 107.7px 24px;
+  width: 320px;
+  box-sizing: border-box;
+}
+.college-web-design .container-17 {
+  margin: 0 61.2px 0 14.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .group-1 {
+  background: url('../assets/images/all_21.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 41px 23.8px 237.8px 44px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .clg-3 {
+  border-radius: 25px;
+  background: url('../assets/images/clg_3.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 24px;
+  width: 530px;
+  height: 651px;
+}
+.college-web-design .the-university-strives-for-academic-excellence {
+  margin-right: 126.4px;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .serene-stimulating-ambience-created-by-the-appropriate-use-of-technology {
+  margin: 48px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  color: #222222;
+}
+.college-web-design .container-12 {
+  margin: 0 17.4px 40px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .students-from-all-over-india-and-world {
+  margin-bottom: 11.8px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.079;
+  color: #222222;
+}
+.college-web-design .image {
+  margin-right: 2.4px;
+  width: 96.5px;
+  height: 43.2px;
+}
+.college-web-design .students {
+  border-radius: 25px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 35px 0;
+  width: 208px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .clg-1 {
+  border-radius: 25px;
+  background: url('../assets/images/clg_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 433px;
+  height: 422px;
+}
+.college-web-design .container-2 {
+  position: relative;
+  margin-bottom: 40px;
+  padding: 163px 0 56px 0;
+  width: 582px;
+  box-sizing: border-box;
+}
+.college-web-design .alliance-university-is-aprivate-university-established-in-karnataka-state-by-act-no-34-of-year-2010-and-is-recognized-by-the-university-grants-commission-ugc-new-delhi {
+  margin: 0 18.2px 20px 18.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 24px;
+  color: #222222;
+}
+.college-web-design .rectangle-71 {
+  border-radius: 60px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 269px;
+  height: 48px;
+}
+.college-web-design .read-more-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.084;
+  color: #FFFFFF;
+}
+.college-web-design .read-more {
+  border-radius: 60px;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  align-self: center;
+  padding: 12px 14px 10px 0;
+  width: 269px;
+  box-sizing: border-box;
+}
+.college-web-design .container-3 {
+  margin: 1px 78px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.college-web-design .ranked-3 {
+  margin-bottom: 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Belanosima';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .best-business-schoolin-south-india {
+  margin-right: 18px;
+  align-self: center;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.079;
+  color: #222222;
+}
+.college-web-design .course {
+  border-radius: 25px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 30.9px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 1px 11.7px 18.1px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .ranked-71 {
+  margin: 0 4.8px 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Belanosima';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .among-top-management-schoolsin-india-by-nirf-rankings-2024 {
+  margin-left: 1.2px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.079;
+  color: #222222;
+}
+.college-web-design .startups {
+  border-radius: 25px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1.4px 33px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 13.5px 7px 9.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .rectangle-132 {
+  border-radius: 25px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 184.4px;
+  height: 133.1px;
+}
+.college-web-design .container {
+  position: relative;
+  margin: 0 0 1.6px 0.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Belanosima';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .professors {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.079;
+  color: #222222;
+}
+.college-web-design .language {
+  border-radius: 25px;
+  position: relative;
+  margin: 0 1px 30.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 36.8px 0 37.7px 0;
+  width: 184.4px;
+  box-sizing: border-box;
+}
+.college-web-design .k {
+  margin: 0 0 1.8px 0.4px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Belanosima';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .alumni-across-the-globe {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.079;
+  color: #222222;
+}
+.college-web-design .professors-1 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 36.8px 19.6px 7.5px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .container-10 {
+  margin-bottom: 23.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.college-web-design .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.college-web-design .about-us {
+  position: relative;
+  margin: 0 69.6px 146px 70px;
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design .discover-our-programs-and-shape-your-path-to-success {
+  margin: 0 0 40px 1px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .academic-units {
+  margin: 0 0 74px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 36px;
+  color: #0540F2;
+}
+.college-web-design .alliance-college-of-engineering-and-design {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #FFFFFF;
+}
+.college-web-design .tx {
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design .container-5 {
+  border-radius: 25px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 42px 22.7px 35px 0;
+  width: 397.3px;
+  box-sizing: border-box;
+}
+.college-web-design .alliance-school-of-business {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #FFFFFF;
+}
+.college-web-design .tx-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design .container-6 {
+  border-radius: 25px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 56px 16.5px 56px 0;
+  width: 397.3px;
+  box-sizing: border-box;
+}
+.college-web-design .alliance-school-of-law {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #FFFFFF;
+}
+.college-web-design .tx-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design .container-7 {
+  border-radius: 25px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 47px 1.2px 65px 0;
+  width: 397.3px;
+  box-sizing: border-box;
+}
+.college-web-design .container-1 {
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 54px;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.college-web-design .alliance-school-of-liberal-arts-and-humanities {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #FFFFFF;
+}
+.college-web-design .tx-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design .container-8 {
+  border-radius: 25px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 48px 15.8px 29px 0;
+  width: 397.3px;
+  box-sizing: border-box;
+}
+.college-web-design .alliance-school-of-design-creative-arts {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #FFFFFF;
+}
+.college-web-design .tx-4 {
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design .container-9 {
+  border-radius: 25px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 48px 12.2px 29px 0;
+  width: 397.3px;
+  box-sizing: border-box;
+}
+.college-web-design .alliance-school-of-film-and-media-studies {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #FFFFFF;
+}
+.college-web-design .tx-5 {
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design .container-10 {
+  border-radius: 25px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 37px 0 40px 40.8px;
+  width: 397.3px;
+  box-sizing: border-box;
+}
+.college-web-design .container-4 {
+  margin-bottom: 68px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 54px;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.college-web-design .view-all-1 {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.084;
+  color: #FFFFFF;
+}
+.college-web-design .view-all {
+  border-radius: 60px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 11.8px 0 10.2px 0;
+  width: 269.2px;
+  box-sizing: border-box;
+}
+.college-web-design .our-course {
+  margin: 0 70px 170px 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.college-web-design .admission-process {
+  margin: 0 0 43px 237px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .alliance-selection-process-is-designed-for-holistic-evaluation-of-the-candidate-based-on-the-following-parameters-past-academic-performance-national-test-scores-followed-by-apersonal-interview-they-are-also-expected-to-meet-the-qualifying-scores-in-at-least-one-of-the-entrance-exams {
+  margin: 0 47.5px 68px 47.5px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 24px;
+  color: #222222;
+}
+.college-web-design .image-1 {
+  border-radius: 25px;
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  margin: 0 54px 37.2px 0;
+  width: 607px;
+  height: 534px;
+}
+.college-web-design .vector {
+  width: 25px;
+  height: 19px;
+}
+.college-web-design .container-1 {
+  border-radius: 15px;
+  background: #0540F2;
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  padding: 16px 12px 15px 13px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.college-web-design .vector-1 {
+  width: 25px;
+  height: 19px;
+}
+.college-web-design .container-2 {
+  border-radius: 15px;
+  background: #0540F2;
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  padding: 16px 12px 15px 13px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.college-web-design .vector-2 {
+  width: 25px;
+  height: 19px;
+}
+.college-web-design .container-3 {
+  border-radius: 15px;
+  background: #0540F2;
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  padding: 16px 12px 15px 13px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.college-web-design .vector-3 {
+  width: 25px;
+  height: 19px;
+}
+.college-web-design .container-4 {
+  border-radius: 15px;
+  background: #0540F2;
+  position: relative;
+  margin-bottom: 27px;
+  display: flex;
+  padding: 16px 12px 15px 13px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.college-web-design .vector-4 {
+  width: 25px;
+  height: 19px;
+}
+.college-web-design .icon {
+  border-radius: 15px;
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  padding: 16px 12px 15px 13px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.college-web-design .container-19 {
+  margin: 119px 35.4px 85.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .overall-profile {
+  margin: 0 4.8px 38px 4.8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.297;
+  color: #000000;
+}
+.college-web-design .work-experience {
+  margin-bottom: 283px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.297;
+  color: #000000;
+}
+.college-web-design .see-all-our-admission {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.084;
+  color: #FFFFFF;
+}
+.college-web-design .view-all-2 {
+  border-radius: 60px;
+  background: #0540F2;
+  position: relative;
+  margin-left: 4.6px;
+  display: flex;
+  padding: 11.8px 0 9.4px 1px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.college-web-design .container-11 {
+  margin-top: 119px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.college-web-design .container {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .our-admission {
+  margin: 0 70px 222.8px 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .placements {
+  margin: 0 1px 57px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .the-career-advancement-and-networking-can-aims-at-helping-students-in-achieving-their-career-goals-it-helps-the-students-in-better-understanding-their-career-exploring-new-possibilities-guiding-them-on-career-paths-preparing-them-for-interviews-and-navigating-them-from-the-tangled-web-of-job-searches-can-facilitates-various-guest-lectures-corporate-events-seminars-in-plant-training-certificate-programs-workshops-live-projects-industry-exposure-visits-for-the-university-graduates {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 24px;
+  color: #0540F2;
+}
+.college-web-design .testimonial {
+  margin: 0 82px 30px 82px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .image-3 {
+  background: url('../assets/images/image_3.png');
+  margin-bottom: 19px;
+  align-self: center;
+  width: 1028px;
+  height: 532px;
+}
+.college-web-design .campus-life {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .our-blog {
+  margin: 0 11px 39px 11px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.college-web-design .sports-img-img-1 {
+  background: url('../assets/images/sports_img_img_1.jpeg') 50% / cover no-repeat;
+  margin-right: 65px;
+  width: 391px;
+  height: 262px;
+}
+.college-web-design .campus-life-students-health-1 {
+  background: url('../assets/images/campus_life_students_health_1.jpeg') 50% / cover no-repeat;
+  margin-right: 64.9px;
+  width: 403.1px;
+  height: 262px;
+}
+.college-web-design .campus-life-security-and-safety-1 {
+  background: url('../assets/images/campus_life_security_and_safety_1.jpeg') 50% / cover no-repeat;
+  width: 391px;
+  height: 262px;
+}
+.college-web-design .container-18 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: row;
+  width: 1315px;
+  box-sizing: border-box;
+}
+.college-web-design .sports-recreation {
+  margin-right: 17.5px;
+  width: 254px;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .students-health-and-wellbeing {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .container-9 {
+  margin: 0 68px 42px 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 783px;
+  box-sizing: border-box;
+}
+.college-web-design .campus-life-dining-11 {
+  background: url('../assets/images/campus_life_dining_11.jpeg') 50% / cover no-repeat;
+  margin-right: 65px;
+  width: 391px;
+  height: 262px;
+}
+.college-web-design .campus-life-students-driven-1 {
+  background: url('../assets/images/campus_life_students_driven_1.jpeg') 50% / cover no-repeat;
+  margin-right: 68px;
+  width: 400px;
+  height: 262px;
+}
+.college-web-design .transport-1 {
+  background: url('../assets/images/transport_1.jpeg') 50% / cover no-repeat;
+  width: 391px;
+  height: 262px;
+}
+.college-web-design .container-5 {
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: row;
+  width: 1315px;
+  box-sizing: border-box;
+}
+.college-web-design .dining-food-court {
+  margin: 0 17.5px 3px 0;
+  display: inline-block;
+  width: 270px;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .students-driven-clubs-societies {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .transportation {
+  margin: 0 0px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .container-8 {
+  margin: 0 46px 46px 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1174.8px;
+  box-sizing: border-box;
+}
+.college-web-design .know-more {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.084;
+  color: #FFFFFF;
+}
+.college-web-design .view-all-4 {
+  border-radius: 60px;
+  background: #0540F2;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  align-self: center;
+  padding: 12px 0 10px 1px;
+  width: 269px;
+  box-sizing: border-box;
+}
+.college-web-design .frame-1 {
+  background: #EAEAEA;
+  position: relative;
+  margin: 0 0 119px 60px;
+  display: flex;
+  flex-direction: column;
+  padding: 87px 61px 0 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .join-us-now {
+  margin: 0 0 203px 3.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1.079;
+  color: #0540F2;
+}
+.college-web-design .join-now {
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.084;
+  color: #FFFFFF;
+}
+.college-web-design .view-all-3 {
+  border-radius: 60px;
+  background: #0540F2;
+  position: relative;
+  margin-right: 24.7px;
+  display: flex;
+  padding: 12px 0 10px 1px;
+  width: 269px;
+  box-sizing: border-box;
+}
+.college-web-design .cta {
+  border-radius: 60px;
+  margin: 0 4.3px 74px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .about-university-ranking-university-officers-news-and-event {
+  margin: 16px 56.9px 161px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.college-web-design .schools-alliance-school-of-business-alliance-college-of-engineering-design-alliance-school-of-law-alliance-school-of-liberal-arts-and-humanities-alliance-school-of-design-creative-arts-alliance-school-of-economics-alliance-school-of-film-and-media-studies-alliance-school-of-sciences {
+  margin: 7px 25.4px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.college-web-design .programmes-undergraduate-postgraduate-doctoral-execute-educator {
+  margin: 1px 63px 142px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.college-web-design .admissions-admission-process-course-fee-structure-payment-options-university-brochures {
+  margin-bottom: 143px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.college-web-design .contact {
+  background: #0540F2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 30px 7.5px 59px 43px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.college-web-design .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.college-web-design .join-alliance-university-adynamic-institution-established-by-act-no-34-of-2010-in-karnataka-recognized-by-ugc-new-delhi-experience-aunique-blend-of-business-engineering-law-and-liberal-arts-with-transdisciplinarity-at-the-core-of-our-academic-philosophy-be-part-of-acommunity-that-drives-collaboration-inquiry-and-innovation-to-tackle-the-challenges-of-the-21-st-century-join-us-now-and-shape-the-future {
+  position: absolute;
+  left: 105px;
+  top: 101px;
+  overflow-wrap: break-word;
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-size: 28px;
+  color: #0540F2;
+}
+.college-web-design .contact-us {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.college-web-design {
+  background: #EAEAEA;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}

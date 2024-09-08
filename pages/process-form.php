@@ -17,11 +17,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = htmlspecialchars(trim($_POST["name"]));
     $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
     $phone = htmlspecialchars(trim($_POST["phone"]));
-    $state = htmlspecialchars(trim($_POST["state"]));
+    $state = htmlspecialchars(trim($_POST["stream"]));
     $course = htmlspecialchars(trim($_POST["course"]));
 
     // Validate inputs
-    if (empty($name) || empty($email) || empty($phone) || empty($state) || empty($course)) {
+    if (empty($name) || empty($email) || empty($phone) || empty($stream) || empty($course)) {
         die("All fields are required.");
     }
     
@@ -30,8 +30,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Prepare and bind
-    $stmt = $conn->prepare("INSERT INTO enquiries (name, email, phone, state, course) VALUES (?, ?, ?, ?, ?)");
-    $stmt->bind_param("sssss", $name, $email, $phone, $state, $course);
+    $stmt = $conn->prepare("INSERT INTO enquiries (name, email, phone, stream, course) VALUES (?, ?, ?, ?, ?)");
+    $stmt->bind_param("sssss", $name, $email, $phone, $stream, $course);
 
     // Execute the statement
     if ($stmt->execute()) {
